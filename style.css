@@ -1,0 +1,22 @@
+.box1{
+  height: 200px;
+  width: 200px;
+  border:10px black solid;
+  margin-left: 10px;
+  padding: 10px
+}
+.box2{
+  height: 200px;
+  width: 200px;
+  border: 20px black solid;
+  background-color: red;
+  margin-left: 250px;
+
+}
+.box3{
+  height: 200px;
+  width: 200px;
+  border: 30px black solid;
+  background-color: blue;
+  margin-left: 490px;
+}
